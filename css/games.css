@@ -81,6 +81,13 @@ body {
     margin: 0 0 15px;
 }
 
+/* Image */
+img {
+width: 50vh;
+height: auto;
+margin: 0 0 0 10px;
+}
+
 /* === LINK STYLES === */
 
 a {
