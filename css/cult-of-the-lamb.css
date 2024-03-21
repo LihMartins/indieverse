@@ -1,4 +1,6 @@
-/* Font Used */
+/* === FONT STYLES === */
+
+/* Font Used - Custom Font */
 @font-face {
     font-family: 'zelda-font';
     src: url('/indieverse/fonts/zelda-font.ttf');
@@ -9,17 +11,19 @@ body {
     font-family: 'zelda-font';
 }
 
+/* === JUMBOTRON STYLES === */
+
 /* Webpage Title Big Box */
 .jumbotron {
-    background-color: #7cdddd;
-    /* Change the background color */
-    color: #F55AD6;
-    /* Change the text color */
+    background-color: #ccffff; /* Change the background color */
+    color: #9d0c67; /* Change the text color */
 }
+
+/* === NAVBAR STYLES === */
 
 /* Style the brand name in the navbar */
 .navbar-inverse .navbar-brand {
-    color: #F55AD6;
+    color: #fd5ddd;
     font-size: 2.5em;
 }
 
@@ -27,7 +31,7 @@ body {
 .navbar-inverse .navbar-nav>.active>a,
 .navbar-inverse .navbar-nav>.active>a:focus,
 .navbar-inverse .navbar-nav>.active>a:hover {
-    color: #F55AD6;
+    color: #fd5ddd;
     background-color: #080808;
 }
 
@@ -35,36 +39,29 @@ body {
 .navbar-inverse .navbar-nav>li>a {
     color: #7cdddd;
     font-size: 2em;
-    /* Set the font color to white */
 }
-
 
 .navbar-nav li a:hover {
     color: #a10582;
-
 }
 
 /* Style the links in the dropdown menu */
 .dropdown-menu li a {
-    color: #000;
+    color: #000; /* Set the font color to black */
     font-size: 1.6em;
-    /* Set the font color to black */
 }
-
 
 .dropdown-menu li a:hover {
     background-color: #89e5dc;
-
 }
+
+/* === CONTENT CONTAINER STYLES === */
 
 /* Style the content container */
 .content-container {
-    width: 80%;
-    /* Adjust as needed */
-    margin: 0 auto;
-    /* Centers the container */
-    padding: 20px;
-    /* Adds space around the content */
+    width: 80%; /* Adjust as needed */
+    margin: 0 auto; /* Centers the container */
+    padding: 20px; /* Adds space around the content */
     margin-bottom: 20px;
     font-family: Verdana, sans-serif;
     background-color: #b3d4d6;
@@ -75,14 +72,14 @@ body {
     font-family: 'zelda-font';
     font-size: 3.5em;
     text-align: center;
-    margin-bottom: 0 0 10px;
+    margin-bottom: 10px;
 }
 
 .content-container h3 {
     font-family: 'zelda-font';
     font-size: 3.0em;
     text-align: center;
-    margin-bottom: 0 0 10px;
+    margin-bottom: 10px;
 }
 
 /* Content Text */
@@ -91,12 +88,15 @@ body {
     margin: 0 0 15px;
 }
 
+/* === LINK STYLES === */
+
 a {
     color: #c527da;
     font-weight: bold;
     text-decoration: none;
-
 }
+
+/* === VIDEO CONTAINER STYLES === */
 
 .video-container {
     display: flex;
@@ -105,8 +105,9 @@ a {
     margin-bottom: 20px;
 }
 
-/* Footer Styles */
-/*Footer*/
+/* === FOOTER STYLES === */
+
+/* Footer */
 .footer {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.2em;
