@@ -1,7 +1,7 @@
 /* Font Used */
 @font-face {
     font-family: 'ZeldaFont';
-    src: url('/fonts/The\ Wild\ Breath\ of\ Zelda.otf');
+    src: url('./fonts/The\ Wild\ Breath\ of\ Zelda.otf');
 }
 
 /* Set the font for the entire body of the webpage */
