@@ -1,12 +1,12 @@
 /* Font Used */
 @font-face {
-    font-family: 'ZeldaFont';
-    src: url('/fonts/zeldafont.woff');
+    font-family: 'zelda-font';
+    src: url('/fonts/zelda-font.woff');
 }
 
 /* Set the font for the entire body of the webpage */
 body {
-    font-family: 'ZeldaFont';
+    font-family: 'zelda-font';
 }
 
 /* Webpage Title Big Box */
@@ -72,7 +72,7 @@ body {
 
 /* Content Title */
 .content-container h1 {
-    font-family: 'ZeldaFont';
+    font-family: 'zelda-font';
     font-size: 3.5em;
     text-align: center;
     margin-bottom: 0 0 10px;
