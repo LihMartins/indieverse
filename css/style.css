@@ -70,8 +70,10 @@ body {
     background-color: #b3d4d6;
 }
 
-.content-container h2 {
-    font-family: "ZeldaFont";
+/* Content Title */
+.content-container h1 {
+    font-family: 'ZeldaFont';
+    font-size: 3.5em;
     text-align: center;
     margin-bottom: 0 0 10px;
 }
