@@ -1,0 +1,112 @@
+/* Font Used */
+@font-face {
+    font-family: 'ZeldaFont';
+    src: url('/fonts/The\ Wild\ Breath\ of\ Zelda.otf');
+}
+
+/* Set the font for the entire body of the webpage */
+body {
+    font-family: 'ZeldaFont';
+}
+
+/* Webpage Title Big Box */
+.jumbotron {
+    background-color: #7cdddd;
+    /* Change the background color */
+    color: #F55AD6;
+    /* Change the text color */
+}
+
+/* Style the brand name in the navbar */
+.navbar-inverse .navbar-brand {
+    color: #F55AD6;
+    font-size: 2.5em;
+}
+
+/* Style Home Menu Focus */
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: #F55AD6;
+    background-color: #080808;
+}
+
+/* Style the links in the navbar */
+.navbar-inverse .navbar-nav>li>a {
+    color: #7cdddd;
+    font-size: 2em;
+    /* Set the font color to white */
+}
+
+
+.navbar-nav li a:hover {
+    color: #a10582;
+
+}
+
+/* Style the links in the dropdown menu */
+.dropdown-menu li a {
+    color: #000;
+    font-size: 1.6em;
+    /* Set the font color to black */
+}
+
+
+.dropdown-menu li a:hover {
+    background-color: #89e5dc;
+
+}
+
+/* Style the content container */
+.content-container {
+    width: 80%;
+    /* Adjust as needed */
+    margin: 0 auto;
+    /* Centers the container */
+    padding: 20px;
+    /* Adds space around the content */
+    margin-bottom: 20px;
+    font-family: Verdana, sans-serif;
+    background-color: #b3d4d6;
+}
+
+/* Content Title */
+.content-container h1 {
+    font-family: 'ZeldaFont';
+    font-size: 3.5em;
+    text-align: center;
+    margin-bottom: 0 0 10px;
+}
+
+/* Content Text */
+.content-container p {
+    text-align: justify;
+    margin: 0 0 15px;
+}
+
+/* GIF */
+.tenor-gif-embed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Footer Styles */
+/*Footer*/
+.footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-align: center;    
+}
+
+/* Align footer text to the left */
+p,
+article {
+    align-self: flex-start;
+}
+
+/* Remove underline for all links in the footer */
+.footer a:-webkit-any-link {
+    text-decoration: none !important;
+}
