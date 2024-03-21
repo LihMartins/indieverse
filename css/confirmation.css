@@ -1,12 +1,12 @@
 /* Font Used */
 @font-face {
     font-family: 'zelda-font';
-    src: url('/fonts/zelda-font.woff');
+    src: url('/indieverse/fonts/zelda-font.ttf');
 }
 
 /* Set the font for the entire body of the webpage */
 body {
-    font-family: 'Zelda-Font';
+    font-family: 'zelda-font';
 }
 
 /* Webpage Title Big Box */
