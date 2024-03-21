@@ -1,7 +1,7 @@
 /* Font Used */
 @font-face {
     font-family: 'ZeldaFont';
-    src: url('/fonts/zeldafont.ttf');
+    src: url('/fonts/zeldafont.woff');
 }
 
 /* Set the font for the entire body of the webpage */
