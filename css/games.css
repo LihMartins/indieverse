@@ -81,11 +81,12 @@ body {
     margin: 0 0 15px;
 }
 
-/* Image */
-img {
-width: 32vh;
-height: auto;
-margin: 0 0 0 10px;
+/* GIF */
+.tenor-gif-embed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
 }
 
 /* === LINK STYLES === */
