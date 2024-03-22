@@ -44,33 +44,37 @@ In the end, the layout successfully encapsulates the essence of minimalism and c
 
 For the first time in a long while, I have been able to channel my creativity into a project I love. Indieverse is the product of a creative mind that’s just beginning to shake off the rust and explore its potential.
 
+![Logo Banner](./images/logobanner.PNG)
+
+![Menu Bar](./images/menubar.PNG)
+
 ## Features
 
 - **Home: Explore the Cosmic Gateway:**
 The main page welcomes users to Indieverse, providing a cosmic introduction to the universe of indie games. Users will find a brief overview of what Indieverse is all about, setting the stage for an extraordinary journey into the world of indie gaming.
 
-![Main Page](.PNG)
+![Main Page](./images/mainpage.PNG)
 
 - **About: Unveiling the Stargazer:**
 The "About" section is a personal odyssey, offering a glimpse into the creator behind Indieverse. Discover the stargaser, the passionate gamer who embarked on a mission to bring indie games to the forefront. Get to know the force driving Indieverse and the commitment to celebrating indie creativity.
 
-![About Page].PNG)
+![About Page](./images/about.PNG)
 
 - **Games: Navigating the Celestial Library**
 The heart of Indieverse, the "Games" section, is a celestial library of indie wonders. Users can explore a main page that teases upcoming reviews and sets the stage for gaming adventures. Dive deeper into the cosmos with a sub-menu featuring in-depth reviews of specific indie games. While Cult of The Lamb is the pioneer, more games will be slated for exploration in the future
 
-![Games Page](PNG)
-![Cult of the Lamb Page](PNG)
+![Games Page](./images/games.PNG)
+![Cult of the Lamb Page](./images/cult.PNG)
 
 - **Contact: Connecting Stars**
 Indieverse isn't just a portal; it's a community. The "Contact" page invites users to become part of the cosmic conversation. Whether it's sharing feedback, suggesting games for review, or developers seeking visibility, the contact page is the interstellar hub for connections.
 
-![Contact Page](vPNG)
+![Contact Page](./images/contact.PNG)
 
 - **Footer: Where Love Meets Bits and Bytes**
 In the digital constellation of Indieverse, the footer is the cosmic bookmark that leaves an imprint of care and connection. Here, two stellar features shine brightly:
 
-![Footer](PNG)
+![Footer](./images/footer.PNG)
 
 - **Crafted Affection**
 Beneath the pixelated sky, the footer proudly displays the handcrafted badge of love. Every pixel, every line, and every word is a labour of affection from the Indieverse Crew. It's more than a copyright statement; it's a declaration of commitment. Crafted with love, our digital creation invites you to explore the boundless galaxies of indie gaming.
@@ -95,55 +99,55 @@ Indieverse's features are carefully crafted to cater to gamers, developers, and 
 No errors were returned when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
 **About**
-![About Check](../indieverse/images/abouthtmlvalidator.PNG)
+![About Check](./images/abouthtmlvalidator.PNG)
 
 **Confirmation Page**
-![Confirmation Page Check](../indieverse/images/confirmationhtmlvalidator.PNG)
+![Confirmation Page Check](./images/confirmationhtmlvalidator.PNG)
 
 **Contact**
-![Contact Check](../indieverse/images/contacthtmlvalidator.PNG)
+![Contact Check](./images/contacthtmlvalidator.PNG)
 
 **Cult of The Lamb Page**
-![Cult of the Lamb Check](../indieverse/images/cult-of-the-lambhtmlvalidator.PNG)
+![Cult of the Lamb Check](./images/cult-of-the-lambhtmlvalidator.PNG)
 
 **Games**
-![Games Check](../indieverse/images/gameshtmlvalidator.PNG)
+![Games Check](./images/gameshtmlvalidator.PNG)
 
 **Index**
-![Index Check](../indieverse/images/indexhtmlvalidator.PNG)
+![Index Check](./images/indexhtmlvalidator.PNG)
 
 ### CSS
 
 No errors were found when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
 **About**
-![About Check](../indieverse/images/aboutcssvalidator.PNG)
+![About Check](./images/aboutcssvalidator.PNG)
 
 **Confirmation Page**
-![Confirmation Page Check](../indieverse/images/confirmationcssvalidator.PNG)
+![Confirmation Page Check](./images/confirmationcssvalidator.PNG)
 
 **Contact**
-![Contact Check](../indieverse/images/contactscssvalidator.PNG)
+![Contact Check](./images/contactscssvalidator.PNG)
 
 **Cult of the Lamb Page**
-![Cult of the Lamb Check](../indieverse/images/cul-of-the-lambcssvalidator.PNG)
+![Cult of the Lamb Check](./images/cul-of-the-lambcssvalidator.PNG)
 
 **Games**
-![Games Check](../indieverse/images/gamescssvalidator.PNG)
+![Games Check](./images/gamescssvalidator.PNG)
 
 **Style**
-![Style Check](../indieverse/images/stylecssvalidator.PNG)
+![Style Check](./images/stylecssvalidator.PNG)
 
 ## WCAG Contrast Check
 
 **Logo Banner and Title**
-![Logo Banner and Title](../indieverse/images/wcagcontrastchecker1.PNG)
+![Logo Banner and Title](./images/wcagcontrastchecker1.PNG)
 
 **Menu Bar**
-![Menu Bar](../indieverse/images/wcagcontrastchecker2.PNG)
+![Menu Bar](./images/wcagcontrastchecker2.PNG)
 
 **Content Container**
-![Content Container](../indieverse/images/containercontrastchecker.PNG)
+![Content Container](./images/containercontrastchecker.PNG)
 
 ## Unfixed Bugs
 
@@ -205,11 +209,13 @@ Here are some of the resources that were instrumental in the creation of Indieve
   
 ### Favicon
 
-- [Favicon Generator](Favicon: https://favicon.io/favicon-converter/)
+- [Favicon Generator](https://favicon.io/favicon-converter/)
 
 ### Icons for Footer
 
-Utilized Bootstrap Icons from [Bootstrap Icons](https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css)
+Utilized Bootstrap Icons from
+
+- [Bootstrap Icons](https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css)
 
 ### Video Content
 
@@ -234,6 +240,10 @@ Designed the Indieverse logo using [Designs.ai Logo Maker](https://designs.ai/en
 - [Contrast Checker](https://accessibleweb.com/color-contrast-checker/)
 
 ## Lighthouse Desktop Performance
+
+While I'm proud of the aesthetic and functionality of my webpage, its performance as measured by Google's Lighthouse tool has been a point of frustration. Despite my best efforts to address the issues identified by Lighthouse, achieving a perfect score of 100 without altering the layout of my site has proven to be a challenging task.
+
+I've attempted to address the issues to the best of my ability, but there's still work to be done. I'm committed to learning and improving, so if anyone has insights or suggestions on how to boost my Lighthouse score without compromising the current layout and design of the site, your input would be greatly appreciated. Please feel free to reach out!
 
 **About**
 ![About Performance]()
