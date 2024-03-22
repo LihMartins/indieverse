@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a testament to the power of resilience, a story of a phoenix rising from the ashes. It is the second attempt at building a webpage from scratch, born from the lessons learned from a previous endeavor that didn't go as planned. You can find the initial attempt [here](https://lihmartins.github.io/CodeProjectStudies/).
+This project is a testament to the power of resilience, a story of a phoenix rising from the ashes. It is the second attempt at building this webpage from scratch, born from the lessons learned from a previous endeavor that didn't go as planned. You can find the initial attempt [here](https://lihmartins.github.io/CodeProjectStudies/).
 
 ### The Journey
 
@@ -184,8 +184,6 @@ Embarking on the journey of refining my passion project was the catalyst I neede
 
 ### Websites and Resources Used
 
-## Credits
-
 Here are some of the resources that were instrumental in the creation of Indieverse:
 
 - [Best Image Dimension Check](https://www.shopify.com/nz/blog/image-sizes)
@@ -229,7 +227,7 @@ Integrated YouTube videos for gameplay:
 Included GIFs from:
 
 - [Tenor GIF](https://tenor.com/brzZ7.gif)
-- [Tenor GIF](https://media1.tenor.com/m/pQGITlIh3jQAAAAC/computer-games.gif)
+- [Tenor GIF](https://tenor.com/view/thesimpsons-bart-gif-7856222)
 
 ### Logo Creation
 
@@ -246,36 +244,36 @@ While I'm proud of the aesthetic and functionality of my webpage, its performanc
 I've attempted to address the issues to the best of my ability, but there's still work to be done. I'm committed to learning and improving, so if anyone has insights or suggestions on how to boost my Lighthouse score without compromising the current layout and design of the site, your input would be greatly appreciated. Please feel free to reach out!
 
 **About**
-![About Performance]()
+![About Performance](./images/lighthouseabout.PNG)
 
 **Contact**
-![Contact Performance]()
+![Contact Performance](./images/lighthousecontact.PNG)
 
 **Cult of the Lamb Page**
-![Cult Performance]()
+![Cult Performance](./images/lighthousecult.PNG)
 
 **Games**
-![Games Performance]()
+![Games Performance](./images/lighthousegames.PNG)
 
 **Main Page**
-![Main Page Performance]()
+![Main Page Performance](./images/lighthouseindex.PNG)
 
 ## Lighthouse Mobile Performance
 
 **About**
-![About Performance]()
+![About Performance](./images/lighthousemobileabout.PNG)
 
 **Contact**
-![Contact Performance]()
+![Contact Performance](./images/lighthousemobilecontact.PNG)
 
 **Cult of the Lamb**
-![Cult Performance]()
+![Cult Performance](./images/lighthousemobilecult.PNG)
 
 **Games**
-![Games Performance]()
+![Games Performance](./images/lighthousemobilegames.PNG)
 
 **Index**
-![Main Page Performance]()
+![Main Page Performance](./images/lighthousemobilehome.PNG)
 
 ## Finals
 
